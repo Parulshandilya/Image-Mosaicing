@@ -1,5 +1,6 @@
 # Mosaicing
-Blackboard Mosaic
+Blackboard Mosaic:
+Stitched images taken from different angle to form the final image. Library: OpenCV
 
 ##### Stich Step1
 
