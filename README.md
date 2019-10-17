@@ -1,7 +1,7 @@
 # Mosaicing
 Blackboard Mosaic:
 Stitched images taken from different angle to form the final image. Library: OpenCV
-
+Drawback: It can not mosaic non 2D surface.
 ##### Stich Step1
 
 <p align="center">
